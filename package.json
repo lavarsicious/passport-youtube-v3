@@ -12,10 +12,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/yanatan16/passport-youtube-v3.git"
+    "url": "git://github.com/lavarsicious/passport-youtube-v3.git"
   },
   "bugs": {
-    "url": "http://github.com/yanatan16/passport-youtube-v3/issues"
+    "url": "http://github.com/lavarsicious/passport-youtube-v3/issues"
   },
   "author": {
     "name": "Jon Eisen",
@@ -25,7 +25,7 @@
   "license": "MIT",
   "main": "./lib/passport-youtube-v3",
   "dependencies": {
-    "passport-oauth2": "1.1.2"
+    "passport-oauth2": "1.x.x"
   },
   "readme": "passport-youtube-v3\n================\n\nYoutube API v3 strategy for passport",
   "devDependencies": {
